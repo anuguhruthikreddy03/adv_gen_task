@@ -1,4 +1,4 @@
-# FastAPI Day 5 — Cart System (Assignment 4)
+# FastAPI  — Cart System (Assignment 4)
 
 ## Run the app
 
