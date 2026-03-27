@@ -93,16 +93,6 @@ jupyter notebook
 * Extracted meaningful insights using NLP techniques
 * Demonstrated end-to-end NLP pipeline
 
----
-
-## 🔮 Future Improvements
-
-* Add advanced models (LSTM, Transformers)
-* Use pre-trained embeddings (Word2Vec, GloVe)
-* Build a web app using Streamlit
-* Integrate real-world datasets
-
----
 
 ## 👨‍💻 Author
 
