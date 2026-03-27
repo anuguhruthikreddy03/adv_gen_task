@@ -33,20 +33,6 @@ The implementation is done using **Python** in a Jupyter Notebook environment.
 * NLTK / SpaCy
 * Jupyter Notebook
 
----
-
-## 📂 Project Structure
-
-```
-📁 NLP-Assignment
-│
-├── NLP Assignment-1.ipynb   # Main notebook
-├── README.md               # Project documentation
-└── dataset/ (optional)     # Dataset files (if any)
-```
-
----
-
 ## ⚙️ Installation
 
 1. Clone the repository:
@@ -121,21 +107,6 @@ jupyter notebook
 ## 👨‍💻 Author
 
 **Hruthik Anugu**
-📍 India
-💡 Interested in AI, NLP, and Machine Learning
 
----
-
-## ⭐ Acknowledgements
-
-* Scikit-learn Documentation
-* NLTK Library
-* NLP Online Resources
-
----
-
-## 📬 Contact
-
-If you have any questions or suggestions, feel free to reach out!
 
 ---
